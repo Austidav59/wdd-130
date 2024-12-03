@@ -1,0 +1,7 @@
+[user]
+	name = Austidav59
+	email = adavis10@byui.edu
+[http]
+	postBuffer = 524288000
+[core]
+	compression = 0
